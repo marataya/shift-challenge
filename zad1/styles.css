@@ -1,0 +1,20 @@
+.inputs__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    width: 33.333%;
+}
+
+.controls{
+    margin: 15px 0;
+}
+
+.controls > * {
+    height: 35px;
+}
